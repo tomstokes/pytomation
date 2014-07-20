@@ -31,3 +31,6 @@ htmlcov
 #Mr Developer
 .mr.developer.cfg
 /instances/graburns.py
+
+# PyCharm files
+.idea/
